@@ -1,6 +1,6 @@
 # projeto_pomodoro
 
-A new Flutter project.
+App Pomodoro, criado com MobX.
 
 ## Getting Started
 
